@@ -1,1 +1,1 @@
-npm i e nps start
+npm i, npm start e vai
